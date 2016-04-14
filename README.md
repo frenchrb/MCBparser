@@ -7,6 +7,8 @@ This script produces lists of LCCNs for updated and deleted authority records re
 - A subscription to the [Music Cataloging Bulletin](https://www.musiclibraryassoc.org/?page=musiccatbulletin) is also required. This script has been tested on the January, February, and March 2016 issues. While most of the reported changes are described in a regular format, when parsing earlier or later issues there is always a chance that special cases may occur that the script is not designed to parse.
 
 ##Usage
+Download MCBparser.py.
+
 To run the script from the command line, first move to the directory where MCBparser.py is located. Type the following and hit Enter:
 
 `python MCBparser.py`
