@@ -9,9 +9,7 @@ This script produces lists of LCCNs for updated and deleted authority records re
 ##Usage
 Download MCBparser.py.
 
-To run the script from the command line, first move to the directory where MCBparser.py is located. Type the following and hit Enter:
-
-`python MCBparser.py`
+To run the script from the command line, first move to the directory where MCBparser.py is located. Type `python MCBparser.py` and hit Enter.
 
 You will then be prompted to enter the year and month to select the issue of the MCB for which you want to retrieve lists of updates.
 
